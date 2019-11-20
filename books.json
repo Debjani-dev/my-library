@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "title": "Book1",
+      "description": "book1",
+      "author": "JK Rowling",
+      "image": "book1",
+      "id": 1
+    },
+    {
+      "title": "Book2",
+      "description": "book2",
+      "author": "book2",
+      "image": "book2",
+      "id": 2
+    }
+  ]
+}
